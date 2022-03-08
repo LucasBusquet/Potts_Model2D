@@ -1,1 +1,2 @@
 # Potts_Model2D
+Es un proyecto en el cual simulé un modelo de Potts donde este es la generalizacion del modelo de Ising (el cual es un modelo de interacciones entre spins en una red) en donde la diferencia escencial es que en el modelo de Ising el spin solo tiene dos estados mientras que en el de Potts puede tomar cualquier numero entero de ellos. Se utilizo este modelo para modelar espuma en 2D y complementar con mediciones hechas en el laboratorio
